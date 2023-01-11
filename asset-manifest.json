@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Hemanthrgh/Contact-List-/static/css/main.b4841ec1.css",
+    "main.js": "/Hemanthrgh/Contact-List-/static/js/main.38da008f.js",
+    "index.html": "/Hemanthrgh/Contact-List-/index.html",
+    "main.b4841ec1.css.map": "/Hemanthrgh/Contact-List-/static/css/main.b4841ec1.css.map",
+    "main.38da008f.js.map": "/Hemanthrgh/Contact-List-/static/js/main.38da008f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4841ec1.css",
+    "static/js/main.38da008f.js"
+  ]
+}
